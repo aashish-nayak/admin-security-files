@@ -1,0 +1,2 @@
+email = info@maxfizz.com
+password = QY3yp?%?K
